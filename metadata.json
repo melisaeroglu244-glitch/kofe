@@ -1,0 +1,6 @@
+{
+  "name": "Kavruk Coffee Roasters",
+  "description": "Nitelikli üçüncü nesil kahve kavurucusu, artisan kafe menüsü, çekirdek siparişi ve demleme rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
